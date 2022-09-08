@@ -1,0 +1,3 @@
+It is a cpp project which uses the concept of file management and object oriented programming
+# bookstore-management
+A book shop maintains the inventory of books that are being sold at the shop the list includes details such as author, title, price, publisher and stock positions.  Whenever a customer wants a book, the salesperson input see title and author and the system searches the list and displays whether it is a valid or not able. If it is not, an appropriate message is displayed. If it is, then system displays the book details and requests for the number of copies required.  If the required copies are available, the total cost of the requested copies is displayed; otherwise the message read copies not in stock is displayed
